@@ -1,0 +1,13 @@
+feature,importance
+TA_AVG,386
+Day_sin,376
+Month_sin,286
+Day_cos,246
+HM_AVG,180
+RN_DAY,177
+Month_cos,148
+is_weekend,130
+WS_AVG,119
+Age_Group,103
+Gender,59
+Region,40

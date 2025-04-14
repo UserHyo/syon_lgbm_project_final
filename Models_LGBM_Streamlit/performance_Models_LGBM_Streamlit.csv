@@ -1,0 +1,7 @@
+,Strategy,R2,MAE,RMSE,MAPE
+BrunchSalad,none,0.4,8.82,11.17,0.13
+Noodles,none,0.69,5.53,8.21,0.1
+RiceDishes,none,0.3,10.47,12.49,0.15
+SideDish,none,0.42,2.66,5.46,0.16
+SoupStew,none,0.23,3.75,6.28,0.11
+StirFryGrill,none,0.54,6.87,8.68,0.12

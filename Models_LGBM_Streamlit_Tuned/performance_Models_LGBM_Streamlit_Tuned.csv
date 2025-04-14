@@ -1,0 +1,7 @@
+,Strategy,R2,MAE,RMSE,MAPE,BestParams
+BrunchSalad,power,0.49,8.04,10.28,0.12,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 200, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
+Noodles,none,0.69,5.58,8.17,0.11,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 200, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
+RiceDishes,power,0.35,9.87,12.01,0.14,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 200, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
+SideDish,none,0.41,2.84,5.48,0.18,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 200, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
+SoupStew,power,0.28,3.66,6.07,0.11,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 100, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
+StirFryGrill,none,0.53,6.92,8.72,0.12,"{'subsample': 0.8, 'num_leaves': 15, 'n_estimators': 200, 'min_gain_to_split': 1e-05, 'min_child_weight': 0.001, 'min_child_samples': 10, 'max_depth': 5, 'learning_rate': 0.02, 'colsample_bytree': 0.8}"
